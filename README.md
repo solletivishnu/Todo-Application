@@ -7,14 +7,12 @@ A todos application is a simple app for creating, managing, and tracking tasks o
 ![Food Ordering Home Page](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys/assets/156117966/a6782d38-f65e-406d-b18a-b702568442cb)
 
 ## Features
-- **User and Restaurant Authentication:**
-  - **User Login/Register:** Secure access for customers.
-  - **Restaurant Login/Register:** Secure access for restaurants to manage their menus.
-- **Menu Customization:** Allows restaurants to easily update and manage their menu items.
-- **Menu Browsing:** Enables customers to browse the restaurant's menu conveniently.
-- **Add to Cart:** Customers can add menu items to their cart for easy checkout.
-- **Homepage:** Welcoming and informative homepage for users and restaurants.
-- **Feedback and Contact Options:** Customers can provide feedback and contact the restaurant for inquiries.
+- Creating Single Todo Item.
+- Creating Multiple Todo Items.
+- Taking User Input And Creating Todos Dynamically.
+- Checking a Todo
+- Deleting  a Todo
+- Persisting Todos on Reload using LocalStorage Mechanism.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
